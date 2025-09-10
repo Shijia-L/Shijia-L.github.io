@@ -33,15 +33,14 @@ bio: My research interests include travelling, hiking and photographying.
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: icons/mail
+    url: 'mailto:lsj19971222@gmail.com'
+  - icon: icons/ORCID
+    url: https://github.com/gcushen
+  - icon: icons/brands-linkin
+    url: https://www.linkedin.com/in/shijia-li-791130209/
+  - icon: icons/brands-google-scholar
+    url: https://scholar.google.com/citations?user=AVv1sZYAAAAJ&hl=zh-CN&authuser=1
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -57,6 +56,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a postdoctoral associate from the Department of Chenistry, University of Pittsburgh. My research interests include physical organic chemistry, computational chemistry and organometallic chemistry.  
