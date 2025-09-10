@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 李诗佳
+title: Shijia Li
 
 # Name pronunciation (optional)
-name_pronunciation: Shijia Li
+# name_pronunciation: Shijia Li
 
 # Full name (for SEO)
 first_name: Shijia
