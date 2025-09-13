@@ -35,7 +35,7 @@ bio: My research interests include travelling, hiking and photographying.
 profiles:
   - icon: icons/mail
     url: 'mailto:lsj19971222@gmail.com'
-  - icon: icons/ORCID
+  - icon: assets/media/icons/ORCID
     url: https://github.com/gcushen
   - icon: icons/brands-linkin
     url: https://www.linkedin.com/in/shijia-li-791130209/
