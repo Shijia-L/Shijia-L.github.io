@@ -11,4 +11,7 @@ main:
   - name: Publications
     url: tags/
     weight: 30
+  - name: CV
+    url: cv/
+    weight: 40
 

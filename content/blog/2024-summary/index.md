@@ -15,5 +15,5 @@ image:
 
 It is the luckies year in my life!👋
 
-        {{< video src="2024.mp4" >}}
+ {{< video src="2024.mp4" >}}
 
