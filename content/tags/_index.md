@@ -2,7 +2,7 @@
 title: Selected Publications
 ---
 
-[1]	Ruthenium-Catalyzed α-Regioselective Hydroboration of Allenes. Tan, Y.;† -Li, S.-;† Chen, L.; Huang, J.; Zhang, C.; Song, L.;* Zhang, X.; Wu, Y.-D.;* Sun, J. _Angew. Chem., Int. Ed._ **2025**, _64_, e202420370.
+[1]	Ruthenium-Catalyzed α-Regioselective Hydroboration of Allenes. Tan, Y.;† <u>Li, S.<u>;† Chen, L.; Huang, J.; Zhang, C.; Song, L.;* Zhang, X.; Wu, Y.-D.;* Sun, J. _Angew. Chem., Int. Ed._ **2025**, _64_, e202420370.
 
 [2] Mild Stereoselective Synthesis of Densely-Substituted [3]Dendralenes via Ru-Catalyzed Intermolecular Dimerization of 1,1-Disubstituted Allenes. <u>Li, S.<u/>; Feng, Q.; Song, L.;* Zhang, X.; Wu, Y.-D.;* Sun, J.* _J. Am. Chem. Soc._ **2024**, _146_, 1532–1542.
 
