@@ -54,9 +54,3 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-
-Hiヽ(●´ε｀●)ノMy name is Shijia Li. <br />
-
-I'm currently a postdoctoral associate in the Department of Chemistry at the University of Pittsburgh, where I am fortunate to be adviced by [Prof. Peng Liu](http://pengliu.owlstown.net/). My research focuses on the intersection of computational chemistry and organic chemistry. <br />
-
-I received my Ph.D. degree in Chemistry from the Hong Kong University of Science and Technology in 2024. This facinating program was joinly supervised by [Prof. Yun-Dong Wu](http:/web.pkusz.edu.cn/wu/) from the Shenzhen Bay Laboratory and [Prof. Jianwei Sun](https://sunlab.hkust.edu.hk/cgi-bin/index.php) from the Hong Kong University of Science and Technology. Prior to this, I received a B.E. degree in Pharmaceutical Engerineering and a B.S. degree in Statistics from Southwest Jiao Tong University in 2020.<br />
