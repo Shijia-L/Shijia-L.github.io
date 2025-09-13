@@ -1,1 +1,5 @@
+---
+title: CV
+---
+
 {{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
