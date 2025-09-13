@@ -8,7 +8,8 @@ I'm currently a postdoctoral associate in the Department of Chemistry at the Uni
 
 I received my Ph.D. degree in Chemistry from the Hong Kong University of Science and Technology in 2024. This facinating program was joinly supervised by [Prof. Yun-Dong Wu](http:/web.pkusz.edu.cn/wu/) from the Shenzhen Bay Laboratory and [Prof. Jianwei Sun](https://sunlab.hkust.edu.hk/cgi-bin/index.php) from the Hong Kong University of Science and Technology. Prior to this, I received a B.E. degree in Pharmaceutical Engerineering and a B.S. degree in Statistics from Southwest Jiaotong University in 2020.<br />
 
-#### Experience<br />
+
+### Experience<br />
 - _2024/12_ - _present_<br />
     Postdoctoral Associate, Department of Chemistry<br />
     University of Pittsburgh<br />
