@@ -37,7 +37,7 @@ profiles:
     url: 'mailto:lsj19971222@gmail.com'
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shijia-li-791130209/
-  - icon: brands/brands-google-scholar
+  - icon: brands/google
     url: https://scholar.google.com/citations?user=AVv1sZYAAAAJ&hl=zh-CN&authuser=1
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
