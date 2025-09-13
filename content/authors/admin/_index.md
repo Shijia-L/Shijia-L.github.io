@@ -28,26 +28,24 @@ organizations:
     url: https://www.chem.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include travelling, hiking and photographying.
+bio: The best is yet to come.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: icons/mail
+  - icon: custom/mail
     url: 'mailto:lsj19971222@gmail.com'
-  - icon: assets/media/icons/ORCID
-    url: https://github.com/gcushen
-  - icon: icons/brands-linkin
+  - icon: custom/ORCID
+    url: https://orcid.org/0000-0001-9310-2978
+  - icon: custom/brands-linkin
     url: https://www.linkedin.com/in/shijia-li-791130209/
-  - icon: icons/brands-google-scholar
+  - icon: custom/brands-google-scholar
     url: https://scholar.google.com/citations?user=AVv1sZYAAAAJ&hl=zh-CN&authuser=1
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -56,4 +54,6 @@ highlight_name: true
 website: ""
 ---
 
-I'm currently a postdoctoral associate from the Department of Chenistry, University of Pittsburgh. My research interests include physical organic chemistry, computational chemistry and organometallic chemistry.  
+Hiヽ(●´ε｀●)ノMy name is Shijia Li. 
+I'm currently a postdoctoral associate in the Department of Chemistry at the University of Pittsburgh, where I am fortunate to be adviced by [Prof. Peng Liu](http://pengliu.owlstown.net/). My research focuses on the intersection of computational chemistry and organic chemistry. 
+I received my Ph.D. degree in Chemistry from the Hong Kong University of Science and Technology in 2024. This facinating program was joinly supervised by [Prof. Yun-Dong Wu](http:/web.pkusz.edu.cn/wu/) from the Shenzhen Bay Laboratory and [Prof. Jianwei Sun](https://sunlab.hkust.edu.hk/cgi-bin/index.php) from the Hong Kong University of Science and Technology. Prior to this, I received a B.E. degree in Pharmaceutical Engerineering and a B.S. degree in Statistics from Southwest Jiao Tong University in 2020.
