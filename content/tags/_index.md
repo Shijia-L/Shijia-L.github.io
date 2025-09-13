@@ -4,7 +4,7 @@ title:
 
 [1]	Ruthenium-Catalyzed α-Regioselective Hydroboration of Allenes. <br />
 Tan, Y.;† <u>Li, S.</u>;† Chen, L.; Huang, J.; Zhang, C.; Song, L.;* Zhang, X.; Wu, Y.-D.;* Sun, J. <br />
-_Angew. Chem., Int. Ed._ **2025**, _64_, e202420370.<br />(https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202420370)
+_Angew. Chem., Int. Ed._ **2025**, _64_, e202420370.<br />
 
 [2] Mild Stereoselective Synthesis of Densely-Substituted [3]Dendralenes via Ru-Catalyzed Intermolecular Dimerization of 1,1-Disubstituted Allenes.<br />
 <u>Li, S.</u>; Feng, Q.; Song, L.;* Zhang, X.; Wu, Y.-D.;* Sun, J.* <br />
