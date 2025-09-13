@@ -9,7 +9,7 @@ tags:
   - Travelling
   - Family
 image:
-  caption: 'Hooding Ceremony'
+  caption: 'Photo in Hong Kong'
 ---
 
 
