@@ -33,7 +33,7 @@ bio: The best is yet to come.
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: <i class="fa-solid fa-envelope"></i>
+  - icon: at-symbol
     url: 'mailto:lsj19971222@gmail.com'
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shijia-li-791130209/
