@@ -14,5 +14,5 @@ image:
 
 "Bright is the Moon over My Home Village."
 
-{{< source video src="2022.mp4" >}}
+{{< video src="2022.mp4" >}}
 
