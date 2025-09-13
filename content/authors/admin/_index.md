@@ -33,11 +33,11 @@ bio: The best is yet to come.
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: custom/mail
+  - icon: at-symbol
     url: 'mailto:lsj19971222@gmail.com'
-  - icon: custom/ORCID
+  - icon: brands/ORCID
     url: https://orcid.org/0000-0001-9310-2978
-  - icon: custom/brands-linkin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/shijia-li-791130209/
   - icon: custom/brands-google-scholar
     url: https://scholar.google.com/citations?user=AVv1sZYAAAAJ&hl=zh-CN&authuser=1
