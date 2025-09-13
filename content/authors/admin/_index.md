@@ -34,7 +34,7 @@ bio: The best is yet to come.
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:lsj19971222@gmail.com'
+    url: 'mailto:shl478@pitt.edu'
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shijia-li-791130209/
   - icon: academicons/google-scholar
