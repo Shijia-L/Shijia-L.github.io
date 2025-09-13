@@ -14,8 +14,6 @@ main:
   - name: Publications
     url: tags/
     weight: 40
-  - name: Awards
-    url: awards/
-    weight: 50
+
 
 

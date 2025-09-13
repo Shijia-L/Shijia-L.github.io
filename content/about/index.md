@@ -25,11 +25,11 @@ I received my Ph.D. degree in Chemistry from the Hong Kong University of Science
     Southwest Jiaotong University<br />
 
 #### Awards:    <br />
-- _2021_ - _2024_: HKUST RedBird Academic Excellence Award (3 times) <br />
-- _2020_: Excellent Graduate of Sichuan Province<br />
-- _2018_: Meritorious Winner of the International Mathematical Contest in Modelling<br />
-- _2017_ - _2018_: National Scholarship of China (2 times)<br />
-- _2017_ - _2020_: First Scholarship of Southwest Jiaotong University (3 times)<br />
+- _2021_ - _2024_ HKUST RedBird Academic Excellence Award (3 times) <br />
+- _2020_ Excellent Graduate of Sichuan Province<br />
+- _2018_ Meritorious Winner of the International Mathematical Contest in Modelling<br />
+- _2017_ - _2018_ National Scholarship of China (2 times)<br />
+- _2017_ - _2020_ First Scholarship of Southwest Jiaotong University (3 times)<br />
 
 
 
