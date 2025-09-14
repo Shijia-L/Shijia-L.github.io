@@ -88,4 +88,8 @@ sitemap:
 minify:
   _merge: deep
 
-
+features:
+  map:
+    provider: 'google'
+    api_key: ''
+    zoom: 15

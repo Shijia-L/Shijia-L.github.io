@@ -10,12 +10,6 @@ tags:
 image:
   caption: 'photo in Shaoxing'
 
-features:
-  map:
-    provider: 'google'
-    api_key: ''
-    zoom: 15
-
 content:
   coordinates:
     latitude: '37.4275'
@@ -27,3 +21,4 @@ content:
 
  {{< video src="2022.mp4" >}}
 
+{{ <map h="320px" pos="120.12887,30.26833" zoom="17" alt="这里是黄龙体育馆"> }}
