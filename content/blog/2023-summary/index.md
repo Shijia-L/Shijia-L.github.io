@@ -5,9 +5,7 @@ date: 2023-12-31
 authors:
   - admin
 tags:
-  - Graduation
   - Travelling
-  - Family
 image:
   caption: 'Photo in Daocheng Yading'
 ---
