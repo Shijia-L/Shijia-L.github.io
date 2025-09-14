@@ -2,8 +2,9 @@
 ---
 title:
 ---
-Hiヽ(●´ε｀●)ノ<br />
-Here is my personal blog to share my life!<br />
+
+ヽ(●´ε｀●)ノ<br />
+Hi Hi Hi!<br />
 
 My name is Shijia Li. I'm currently a postdoctoral associate in the Department of Chemistry at the University of Pittsburgh, where I am fortunate to be adviced by [Prof. Peng Liu](http://pengliu.owlstown.net/). My research focuses on the intersection of computational chemistry and organic chemistry. <br />
 
