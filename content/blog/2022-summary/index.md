@@ -10,18 +10,16 @@ tags:
 image:
   caption: 'photo in Shaoxing'
 
-module:
-  imports:
-    - path: github.com/marcpabst/hugo-maps
+features:
+  map:
+    provider: 'google'
+    api_key: ''
+    zoom: 15
 
-params:
-  hugo-maps:
-      default:
-        tileJSON: https://www.google.com/maps
-      my_map:
-        center: [0, 0]
-        zoom: 2
-
+content:
+  coordinates:
+    latitude: '37.4275'
+    longitude: '-122.1697'
 ---
 
 
