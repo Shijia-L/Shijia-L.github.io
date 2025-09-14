@@ -88,3 +88,11 @@ sitemap:
 minify:
   _merge: deep
 
+module:
+  imports:
+    - path: github.com/marcpabst/hugo-maps
+
+params:
+  hugo-maps:
+    default:
+        tileJSON: https://www.google.com/maps

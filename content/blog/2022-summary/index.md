@@ -9,18 +9,6 @@ tags:
   - Hometown
 image:
   caption: 'photo in Shaoxing'
-  
-module:
-  imports:
-    - path: github.com/marcpabst/hugo-maps
-
-params:
-  hugo-maps:
-    default:
-        tileJSON: https://www.google.com/maps
-    my_map:
-        center: [0, 0]
-        zoom: 2
 ---
 
 
@@ -28,4 +16,3 @@ params:
 
  {{< video src="2022.mp4" >}}
 
-{{< map name="my_map" >}}
