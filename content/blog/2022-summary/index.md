@@ -10,10 +10,6 @@ tags:
 image:
   caption: 'photo in Shaoxing'
 
-content:
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
 ---
 
 
@@ -21,4 +17,3 @@ content:
 
  {{< video src="2022.mp4" >}}
 
-{{ <map content>}}
