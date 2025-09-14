@@ -8,12 +8,13 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: Blog
-    url: blog/
-    weight: 30
   - name: Publications
     url: tags/
+    weight: 30
+  - name: Blog
+    url: blog/
     weight: 40
+
 
 
 
