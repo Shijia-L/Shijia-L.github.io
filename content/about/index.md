@@ -34,13 +34,4 @@ I received my Ph.D. degree in Chemistry from the Hong Kong University of Science
 - _2017_ – _2020_  First Scholarship of Southwest Jiaotong University (3 times)<br />
 
 
-
-features:
-  map:
-    provider: 'google'
-    api_key: ''
-    zoom: 15
-content:
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+{{< map name="my_map" >}}

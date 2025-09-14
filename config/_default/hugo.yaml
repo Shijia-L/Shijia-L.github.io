@@ -87,3 +87,15 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+module:
+  imports:
+    - path: github.com/marcpabst/hugo-maps
+
+params:
+  hugo-maps:
+    default:
+        tileJSON: https://api.maptiler.com/tiles/v3/tiles.json?key={key}
+    my_map:
+        center: [0, 0]
+        zoom: 2
