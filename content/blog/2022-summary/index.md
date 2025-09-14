@@ -27,4 +27,3 @@ content:
 
  {{< video src="2022.mp4" >}}
 
-{{< map name="my_map" >}}
