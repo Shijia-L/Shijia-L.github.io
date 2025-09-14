@@ -10,6 +10,10 @@ tags:
 image:
   caption: 'photo in Shaoxing'
 
+content:
+  coordinates:
+    latitude: '37.4275'
+    longitude: '-122.1697'
 ---
 
 
@@ -17,4 +21,4 @@ image:
 
  {{< video src="2022.mp4" >}}
 
-{{ <map h="320px" pos="120.12887,30.26833" zoom="17">}}
+{{ <map content}}
