@@ -1,7 +1,7 @@
 ---
-title: 2023 Summary !![alt text](13659092.jpg)
+title: 2023 Summary!🍻
 summary: This is a summary of my wonderful 2024
-date: 2024-12-31
+date: 2023-12-31
 authors:
   - admin
 tags:
