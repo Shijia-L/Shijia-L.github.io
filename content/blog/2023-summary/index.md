@@ -1,5 +1,5 @@
 ---
-title: 2023 Summary!🍻
+title: 2023 Summary🍻
 summary: This is an amazing year! 
 date: 2023-12-31
 authors:

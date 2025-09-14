@@ -20,7 +20,7 @@ I received my Ph.D. degree in Chemistry from the Hong Kong University of Science
 - _2020/09_ – _2024/08_<br />
     Ph.D. in Chemistry<br />
     The Hong Kong University of Technology and Science & Shenzhen Bay Laboratory<br />
-    Advisors: Prof. [Prof. Yun-Dong Wu](http:/web.pkusz.edu.cn/wu/) & [Prof. Jianwei Sun](https://sunlab.hkust.edu.hk/cgi-bin/index.php)<br />
+    Advisors: [Prof. Yun-Dong Wu](http:/web.pkusz.edu.cn/wu/) & [Prof. Jianwei Sun](https://sunlab.hkust.edu.hk/cgi-bin/index.php)<br />
 
 - _2016/09_ – _2020/06_<br />
     B.E. in Pharmaceutical Engineering & B.S. in Statistics<br />
