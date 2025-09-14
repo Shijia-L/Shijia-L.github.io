@@ -9,7 +9,7 @@ tags:
   - Travelling
   - Family
 image:
-  caption: 'Photo in Hong Kong'
+  caption: 'Photo in Daocheng Yading'
 ---
 
 Bye👋2023 <br />
