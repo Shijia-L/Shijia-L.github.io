@@ -12,8 +12,14 @@ image:
 
 🍻Welcome to watch my 2023 summary vlog! <br />
 
+<br />
+<br />
+
 ### Vlog
  {{< video src="2023.mp4" width="675">}}
+
+<br />
+<br />
 
 ### Footprint
 

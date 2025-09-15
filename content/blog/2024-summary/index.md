@@ -14,9 +14,15 @@ image:
 
 Successfully earned my Ph.D. degree and, fortunately, received a Postdoctoral offer before the end of summer. It is definitely the luckiest year of my life!👋<br />
 
+<br />
+<br />
+
 ### Vlog
 
  {{< video src="2024.mp4" width="675">}}
+
+<br />
+<br />
 
 ### Footprint
 
