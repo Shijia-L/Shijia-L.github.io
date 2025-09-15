@@ -26,6 +26,7 @@ Hi! I miss you so much!<br />
 <br />
 
 ### Footprint
+
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe 
     src="https://www.google.com/maps/d/u/0/embed?mid=1ttARfWZ1BXOc0bj7E11OWvaLzrF_cos&ehbc=2E312F" 
