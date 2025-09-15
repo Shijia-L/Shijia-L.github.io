@@ -20,4 +20,4 @@ Successfully earned my Ph.D. degree and, fortunately, received a Postdoctoral of
 
 #### Footprint
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16UMf8A8GBgZ1AVessxmWrbcPN5tSogU&ehbc=2E312F" width="700" height="320"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16UMf8A8GBgZ1AVessxmWrbcPN5tSogU&ehbc=2E312F" width="690" height="320"></iframe>
