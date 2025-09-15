@@ -16,7 +16,7 @@ Successfully earned my Ph.D. degree and, fortunately, received a Postdoctoral of
 
 ### Vlog
 
- {{< video src="2024.mp4" >}}
+ {{< video src="2024.mp4" width="675">}}
 
 ### Footprint
 
