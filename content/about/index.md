@@ -34,4 +34,3 @@ I received my Ph.D. degree in Chemistry from the Hong Kong University of Science
 - _2017_ – _2020_  First Scholarship of Southwest Jiaotong University (3 times)<br />
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-tdU_uhbynqCbfcSuPST1z1RK7VvLko&ehbc=2E312F" width="640" height="480"></iframe>
