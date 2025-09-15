@@ -14,7 +14,7 @@ image:
 
 During the Spring Festival
 
-<photo src='Tibet1.jpg'>
+<img src='Tibet1.jpg'>
 
 "Bright is the Moon over My Home Village.🌖"<br />
 <br />
