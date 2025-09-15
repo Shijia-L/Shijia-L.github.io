@@ -8,7 +8,7 @@ tags:
   - Travelling
   - Hometown
 image:
-  caption: 'photo in Shaoxing'
+  caption: 'photo in Tibet'
 
 ---
 
