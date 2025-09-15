@@ -18,7 +18,6 @@ image:
 Hi! I miss you so much!<br />
 
 <br />
-<br />
 
 ### Vlog
 

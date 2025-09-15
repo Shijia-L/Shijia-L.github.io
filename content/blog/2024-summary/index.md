@@ -15,15 +15,20 @@ image:
 Successfully earned my Ph.D. degree and, fortunately, received a Postdoctoral offer before the end of summer. It is definitely the luckiest year of my life!👋<br />
 
 <br />
-<br />
 
 ### Vlog
 
  {{< video src="2024.mp4" width="675">}}
 
 <br />
-<br />
 
 ### Footprint
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16UMf8A8GBgZ1AVessxmWrbcPN5tSogU&ehbc=2E312F" width="675" height="320"></iframe>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <iframe 
+    src="https://www.google.com/maps/d/u/0/embed?mid=16UMf8A8GBgZ1AVessxmWrbcPN5tSogU&ehbc=2E312F" 
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allowfullscreen=""
+    loading="lazy">
+  </iframe>
+</div>

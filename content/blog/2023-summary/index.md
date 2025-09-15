@@ -13,15 +13,19 @@ image:
 🍻Welcome to watch my 2023 summary vlog! <br />
 
 <br />
-<br />
 
 ### Vlog
  {{< video src="2023.mp4" width="675">}}
 
 <br />
-<br />
 
 ### Footprint
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12l1sRBeYYEo8np0AnvRF7X2CwRiJIRg&ehbc=2E312F" width="675" height="320"></iframe>
-
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <iframe 
+    src="https://www.google.com/maps/d/u/0/embed?mid=12l1sRBeYYEo8np0AnvRF7X2CwRiJIRg&ehbc=2E312F" 
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allowfullscreen=""
+    loading="lazy">
+  </iframe>
+</div>
