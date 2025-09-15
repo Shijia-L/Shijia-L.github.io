@@ -21,4 +21,4 @@ image:
  {{< video src="2022.mp4" >}}
 
 #### Footprint
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ttARfWZ1BXOc0bj7E11OWvaLzrF_cos&ehbc=2E312F" width="740" height="300"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ttARfWZ1BXOc0bj7E11OWvaLzrF_cos&ehbc=2E312F" width="700" height="320"></iframe>

@@ -17,5 +17,5 @@ image:
 
 #### Footprint
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12l1sRBeYYEo8np0AnvRF7X2CwRiJIRg&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=12l1sRBeYYEo8np0AnvRF7X2CwRiJIRg&ehbc=2E312F" width="700" height="320"></iframe>
 
