@@ -34,11 +34,13 @@ It's so exiting that my best friend, whom I've known for almost twenty years, ca
 <img src='4.jpg'>
 
 
-### Part 3 GRADUATION
+### PART 3 GRADUATION
 
-Successfully earned my Ph.D. degree and, fortunately received a Postdoctoral offer before the end of summer. It is definitely the luckiest year of my life!👋<br />
+Successfully earned my Ph.D. degree and, fortunately received a Postdoctoral offer before the end of summer. It was definitely the luckiest year of my life!👋<br />
 
 <img src='5.jpg'>
+
+Thanks to my supervisors, my family, my friends, and all the people encountered.<br />
 
 
 ### Vlog
