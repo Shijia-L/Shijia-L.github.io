@@ -31,8 +31,6 @@ Thus, I booked a flight to Tibet for the Spring Festival holiday. <br />
 The scenery in Tibet was absolutely breathtaking, from the majestic Potala Palace and ancient glaciers to the stunning Yamdrok Lake. The only drawback was the high altitude sickness, which left me feeling unwell for the entire trip. <br />
 
 <img src='featured.jpg'>
-<img src='4.jpg'>
-<img src='5.jpg'>
 <img src='6.jpg'>
 
 <br />

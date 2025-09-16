@@ -12,9 +12,11 @@ image:
   caption: 'Photo in Hong Kong'
 ---
 
-### Part 1 EXPLORATION
+### PART 1 EXPLORATION
 
 Getting a diving license was on my wish list. So, during the Spring Festival holiday, I traveled to Malaysia on my own to take my Open Water certification.<br />
+
+📍Kota Kinabalu
 
 "You know - one loves the sunset, when one is so sad..."<br />
 
@@ -23,9 +25,11 @@ Getting a diving license was on my wish list. So, during the Spring Festival hol
 
 <br />
 
-### Part 2 FRIENDSHIP
+### PART 2 FRIENDSHIP
 
 It's so exiting that my best friend, whom I've known for almost twenty years, came to Hong Kong to visit me!!!<br />
+
+📍Hong Kong Disneyland
 
 <img src='3.jpg'>
 <img src='4.jpg'>
