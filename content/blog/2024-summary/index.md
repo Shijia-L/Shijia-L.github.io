@@ -23,7 +23,6 @@ Getting a diving license was on my wish list. So, during the Spring Festival hol
 <img src='1.jpg'>
 <img src='2.jpg'>
 
-<br />
 
 ### PART 2 FRIENDSHIP
 
@@ -34,7 +33,6 @@ It's so exiting that my best friend, whom I've known for almost twenty years, ca
 <img src='3.jpg'>
 <img src='4.jpg'>
 
-<br />
 
 ### Part 3 GRADUATION
 
@@ -42,7 +40,6 @@ Successfully earned my Ph.D. degree and, fortunately received a Postdoctoral off
 
 <img src='5.jpg'>
 
-<br />
 
 ### Vlog
 
@@ -55,7 +52,6 @@ Successfully earned my Ph.D. degree and, fortunately received a Postdoctoral off
   </iframe>
 </div>
 
-<br />
 
 ### Footprint
 

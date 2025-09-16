@@ -12,7 +12,6 @@ image:
 
 🍻Welcome to watch my 2023 vlog! <br />
 
-<br />
 
 ### Vlog
 
@@ -25,7 +24,6 @@ image:
   </iframe>
 </div>
 
-<br />
 
 ### Footprint
 

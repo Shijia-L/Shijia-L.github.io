@@ -33,7 +33,6 @@ The scenery in Tibet was absolutely breathtaking, from the majestic Potala Palac
 <img src='featured.jpg'>
 <img src='6.jpg'>
 
-<br />
 
 ### PART 2 HOMESICKNESS
 
@@ -43,14 +42,25 @@ After the academic conference hosted in Hefei, I passed through Hefei, Huangshan
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe 
-    src="2022.mp4" 
+    src="2022-Shaoxing.mp4" 
     frameborder="0" 
     allowfullscreen 
     style="position:absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
 
-<br />
+
+### Vlog
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
+  <iframe 
+    src="2022-Lanzhou.mp4" 
+    frameborder="0" 
+    allowfullscreen 
+    style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
 
 ### Footprint
 
