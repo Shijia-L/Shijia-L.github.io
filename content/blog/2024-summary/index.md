@@ -12,7 +12,31 @@ image:
   caption: 'Photo in Hong Kong'
 ---
 
-Successfully earned my Ph.D. degree and, fortunately, received a Postdoctoral offer before the end of summer. It is definitely the luckiest year of my life!👋<br />
+### Part 1 EXPLORATION
+
+Getting a diving license was on my wish list. So, during the Spring Festival holiday, I traveled to Malaysia on my own to take my Open Water certification.<br />
+
+"You know - one loves the sunset, when one is so sad..."<br />
+
+<img src='1.jpg'>
+<img src='2.jpg'>
+
+<br />
+
+### Part 2 FRIENDSHIP
+
+It's so exiting that my best friend, whom I've known for almost twenty years, came to Hong Kong to visit me!!!<br />
+
+<img src='3.jpg'>
+<img src='4.jpg'>
+
+<br />
+
+### Part 3 GRADUATION
+
+Successfully earned my Ph.D. degree and, fortunately received a Postdoctoral offer before the end of summer. It is definitely the luckiest year of my life!👋<br />
+
+<img src='5.jpg'>
 
 <br />
 
@@ -26,7 +50,6 @@ Successfully earned my Ph.D. degree and, fortunately, received a Postdoctoral of
     style="position:absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
-
 
 <br />
 

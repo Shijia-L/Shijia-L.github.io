@@ -29,7 +29,6 @@ It's so terrible to wake up at 4:00 am, but it's worth it!
 <img src='3.jpg'>
 <img src='5.jpg'>
 
-
 📍Lake Powell<br />
 
 <img src='7.jpg'>

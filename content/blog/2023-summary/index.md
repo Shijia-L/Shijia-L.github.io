@@ -10,7 +10,7 @@ image:
   caption: 'Photo in Daocheng Yading'
 ---
 
-🍻Welcome to watch my 2023 summary vlog! <br />
+🍻Welcome to watch my 2023 vlog! <br />
 
 <br />
 

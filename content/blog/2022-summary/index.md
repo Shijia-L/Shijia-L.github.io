@@ -12,13 +12,36 @@ image:
 
 ---
 
+### PART 1 IMPULSION
+
+At the beginning of 2022, I took part in a tour group to Qingyuan, hoping to see the rime ice on the top of Jinzi Mountain. But unfortunately, I didn't get it due to the rising temperatures that day. <br />
+
+📍Qingyuan <br />
+
+<img src='1.jpg'>
+<img src='2.jpg'>
+<img src='3.jpg'>
+
+As I looked out from the mountaintop, a profound longing for snowberg struck me - a feeling that lingered long after. <br />
+
+Thus, I booked a flight to Tibet for the Spring Festival holiday. <br />
+
+📍Tibet <br />
+
+The scenery in Tibet was absolutely breathtaking, from the majestic Potala Palace and ancient glaciers to the stunning Yamdrok Lake. The only drawback was the high altitude sickness, which left me feeling unwell for the entire trip. <br />
+
+<img src='featured.jpg'>
+<img src='4.jpg'>
+<img src='5.jpg'>
+<img src='6.jpg'>
+
+<br />
+
+### PART 2 HOMESICKNESS
+
 "Bright is the Moon over My Home Village.🌖"<br />
-<br />
-After the academic conference host in Hefei, I passed through Hefei, Huangshan, Hangzhou and finally returned to my hometown, the place I missed for two years!<br />
 
-<br />
-
-### Vlog
+After the academic conference hosted in Hefei, I passed through Hefei, Huangshan, Hangzhou and finally returned to my hometown, the place I missed for two years!<br />
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe 
@@ -41,3 +64,5 @@ After the academic conference host in Hefei, I passed through Hefei, Huangshan, 
     loading="lazy">
   </iframe>
 </div>
+
+
