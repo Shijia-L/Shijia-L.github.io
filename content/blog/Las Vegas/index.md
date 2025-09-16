@@ -10,7 +10,6 @@ image:
   caption: 'Sunrise in Arizona'
 ---
 
-### Plog
 
 It's so terrible to wake up at 4:00 am, but it's worth it! 
 
@@ -40,5 +39,6 @@ It's so terrible to wake up at 4:00 am, but it's worth it!
 
 <img src='9.jpg'>
 
-<br />
+
+
 
