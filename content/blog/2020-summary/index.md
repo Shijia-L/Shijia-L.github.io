@@ -34,14 +34,19 @@ Happy graduation! May we all march forward into a brighter and more promising to
   </iframe>
 </div>
 
+After 8-day draduation trip, we went our separate ways. Please never say goodbye.
+
 📍Lugu lake
 
 <img src='2.jpg'>
 <img src='3.jpg'>
+<img src='5.jpg'>
 
 📍Yulong Snow Mountain
 
-<img src='featured.jpg'>
+<img src='4.jpg'>
+<img src='6.jpg'>
+
 
 
 ### Footprint
