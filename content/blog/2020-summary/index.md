@@ -41,6 +41,9 @@ Happy graduation trip!
 <img src='2.jpg'>
 <img src='3.jpg'>
 
+📍Yulong Snow Mountain
+
+<img src='featured.jpg'>
 
 ### Footprint
 
