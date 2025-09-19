@@ -23,7 +23,7 @@ After completing the milestones of my IELTS exam and MSc applications, I began a
 
 ### PART 2 GRADUATION
 
-Happy graduation!
+Happy graduation! May we all march forward into a brighter and more promising tomorrow!
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe 
@@ -34,8 +34,6 @@ Happy graduation!
   </iframe>
 </div>
 
-Happy graduation trip!
-
 📍Lugu lake
 
 <img src='2.jpg'>
@@ -44,6 +42,7 @@ Happy graduation trip!
 📍Yulong Snow Mountain
 
 <img src='featured.jpg'>
+
 
 ### Footprint
 
