@@ -6,6 +6,7 @@ authors:
   - admin
 tags:
   - Travelling
+  - Academic conference
 image:
   caption: 'Photo in Daocheng Yading'
 ---
