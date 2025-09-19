@@ -55,5 +55,5 @@ highlight_name: true
 website: ""
 ---
 
- Σ>―(◍•ᴗ•◍)♡→
-Welcome to My Blog!
+ Σ>―(◍•ᴗ•◍)♡→<br />
+Welcome to My Blog!<br />
