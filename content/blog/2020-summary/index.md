@@ -16,7 +16,7 @@ image:
 
 After completing the milestones of my IELTS exam and MSc applications, I began a new chapter with a solo adventure along the 30th degree north latitude.
 
-📍Zhang Jia jie
+📍Zhang Jia Jie
 
 <img src='1.jpg'>
 
