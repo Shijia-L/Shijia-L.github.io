@@ -14,9 +14,7 @@ image:
 
 ### PART 1 ADVENTURE 
 
-After completing the milestones of my IELTS exam and MSc applications, I began a new chapter with a solo adventure along the 30th degree north latitude.<br />
-
-大四上一直非常焦虑，没有足够的文章，没有硬核推荐信，甚至没有很好的英语成绩，内心十分后悔当下的选择。1月初，用十天从托福转到雅思，完成了考试，提交完第一批申请，决心给自己放个假，于是开启了沿着成都-重庆-张家界-长沙-杭州-绍兴的“北纬30度”之旅。<br />
+几乎从大三下开始，一直处于极度焦虑的状态，没有足够的文章，没有硬核推荐信，甚至没有很好的英语成绩，内心十分后悔当下的选择。1月初，用十天从托福转到雅思，完成了考试，提交完第一批申请，决心给自己放个假，于是开启了沿着成都-重庆-张家界-长沙-杭州-绍兴的“北纬30度”之旅。<br />
 
 这是我第一次solo trip，以前一直觉得独自旅行是危险且孤独的，但真正经历的时候发现，似乎还别有一番风味，从此便一发不可收拾。从重庆坐绿皮火车到张家界，车上空空荡荡，没什么人。遇到一个英国来的背包客小姐姐，本着练习英语的心态前去搭话，两人想必都是内向的人，聊了几句便结束对话了。<br />
 
@@ -38,9 +36,8 @@ After completing the milestones of my IELTS exam and MSc applications, I began a
 
 年后到五月这段时间，我都是一个人待在家里，时不时写写毕业论文。本以为会就这样平淡地等到返校，然而中途接到了一个诈骗电话，骗走了我辛苦攒下的几千块钱。很无助，一个人在家哭了很久。跑去派出所报警，却被笑话说，“才被骗这么点钱报什么警”。anyway，反正也是要不回来的了。<br />
 
-Happy graduation! May we all march forward into a brighter and more promising tomorrow!<br />
-
-五月底回到学校答辩，六月初毕业典礼。总算是完成了我这四年的学业，感觉比高中都过得辛苦，但也不知道在忙什么。以前有个妹子给我说，我们活着做出的每一个决定，最好都设想一下未来五年甚至十年会有怎么样的改变。于是，趁着毕业聚餐，拿着相机采访了我们班的几个同学————<br />
+五月底回到学校答辩，六月初毕业典礼。总算是完成了我这四年的学业，感觉比高中都过得辛苦，但也不知道在忙什么。以前有个妹子给我说，我们活着做出的每一个决定，最好都设想一下未来五年甚至十年会有怎么样的改变。<br />
+祝大家前程似锦———<br />
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe 
@@ -51,7 +48,9 @@ Happy graduation! May we all march forward into a brighter and more promising to
   </iframe>
 </div>
 
-After 8-day draduation trip, we went our separate ways. Please never say goodbye.
+匆匆结束了毕业典礼，约着几个小伙伴开启了我们的毕业旅行，目的地：彩云之南。<br />
+小时候很喜欢看一些心灵鸡汤的书，里面描写的云南是轻松且自由的，是四季如春的，也不知道为何，总是会把它和“白茶清欢无别事，我在等风也等你”这句话联系在一起。我们一起去了丽江的小酒馆，去了大理古城，去看了恬静的洱海，去眺望了巍峨的苍山，划船在泸沽湖畔，在土地上用木棍写下对未来的愿景。<br />
+从泸沽湖回来的路上，我们的包车司机被警察查了，我们一头雾水地坐上了警车回到了民宿，也不知道后来这个司机犯了什么错，后来怎么样了。也算是一段很新奇的体验了。<br />
 
 📍Lugu lake
 
@@ -64,7 +63,7 @@ After 8-day draduation trip, we went our separate ways. Please never say goodbye
 <img src='4.jpg'>
 <img src='6.jpg'>
 
-
+六月底，考完了二专的最后两门考试，总算是和我的大学生活正式说再见了!七月初，按着老师的安排，来到深圳学习。八月底，由于要办理签证，回了趟家，顺便去母校参加了一个活动，有幸上了次地方电视。然而，都没来得及参加完活动，就去赶飞机了，开启我的新的篇章————<br />
 
 ### Footprint
 
