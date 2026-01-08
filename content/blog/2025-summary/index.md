@@ -52,7 +52,7 @@ image:
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%;">
   <iframe 
-    src="<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zMiMLDIccwgRYeTTBoVSc-vYfVeM_lc&ehbc=2E312F" width="640" height="480"></iframe>" 
+    src="https://www.google.com/maps/d/u/0/embed?mid=1zMiMLDIccwgRYeTTBoVSc-vYfVeM_lc&ehbc=2E312F" 
     style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
     allowfullscreen=""
     loading="lazy">
